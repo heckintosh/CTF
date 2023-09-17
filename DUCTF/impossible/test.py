@@ -1,0 +1,1 @@
+answers = list(map(int, input('Answers: ').split()))
