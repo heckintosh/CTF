@@ -1,12 +1,12 @@
 from pwn import *
 
-libc = ELF("./libc.so.6")
-ld = ELF("./ld-2.35.so")
+libc = ELF("./src/libc.so.6")
+ld = ELF("./src/ld-2.35.so")
 context.arch = 'amd64'
 pty = process.PTY
 is_local = False
 
-elf = ELF("/home/kali/CTF/SECCON/rop-2.35/chall_patched")
+elf = ELF("/home/kali/CTF/SECCON/rop-2.35/src/chall")
 if len(sys.argv) == 1:
     is_local = True
     p = process(elf.path, stdin=pty, stdout=pty)
