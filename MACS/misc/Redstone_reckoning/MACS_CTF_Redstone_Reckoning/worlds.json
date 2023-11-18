@@ -1,0 +1,18 @@
+{
+  "worlds": [
+    {
+      "name": "MACS_CTF_Redstone_Reckoning",
+      "source": "C:\\Users\\admin\\AppData\\Roaming\\.minecraft\\saves\\MACS_CTF_Redstone_Reckoning",
+      "destination": "C:\\Users\\admin\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\MACS_CTF_Redstone_Reckoning",
+      "lastChanged": "2023-11-18T00:10:58",
+      "backup": false
+    },
+    {
+      "name": "New World",
+      "source": "C:\\Users\\admin\\AppData\\Roaming\\.minecraft\\saves\\New World",
+      "destination": "C:\\Users\\admin\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\New World",
+      "lastChanged": "2023-11-17T22:23:52",
+      "backup": false
+    }
+  ]
+}
