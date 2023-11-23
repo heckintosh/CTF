@@ -1,0 +1,51 @@
+mpbpr = e
+dacqi = s
+tcnbi = y  4%
+
+
+
+↑
+MPBPR	19×	12.67%	 
+YFDAC	18×	12%	 
+YRTCN	17×	11.33%	 
+JRFSP	17×	11.33%	 
+WNQER	14×	9.33%	 
+UCFEF	13×	8.67%	 
+BPRQW	12×	8%	 
+DACQI	11×	7.33%	 
+FEFOE	8×	5.33%	 
+QEREG	8×	5.33%	 
+FSPMT	7×	4.67%	 
+TCNBI	6×	4%	
+ 
+#N : 12	Σ = 150.00	Σ = 99.990	#N : 12
+
+
+
+E	12.7 %	M	2.4 %
+T	9.1 %	W	2.4 %
+A	8.2 %	F	2.2 %
+
+
+O	7.5 %	G	2.0 %
+I	7.0 %	Y	2.0 %
+N	6.7 %	P	1.9 %
+
+
+S	6.3 %	B	1.5 %
+H	6.1 %	V	1.0 %
+R	6.0 %	K	0.8 %
+
+L	4.0 %	J	0.2 %
+D	4.3 %	X	0.2 %
+
+
+C	2.8 %	Q	0.1 %
+U	2.8 %	Z	0.1 %
+
+
+mbpbr == E
+
+yfdac == R
+ucfed == O
+dacqui == i	
